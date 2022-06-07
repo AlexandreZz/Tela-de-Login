@@ -1,0 +1,1 @@
+Coloca na variável include_path URL da pasta do seu projeto, para o redirecionamento funcionar se não vai travar na animação do loading-ajax
