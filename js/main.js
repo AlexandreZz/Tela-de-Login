@@ -1,7 +1,7 @@
 let viewPassword = document.getElementsByClassName('view')[0],
     changeView   = document.getElementsByClassName('fa-eye')[0],
     changeValue  = document.getElementById('changeValue'),
-    include_path = "http://localhost/Projetos%20Github/tela%20de%20login/";
+    include_path = "https://alexandrezz.github.io/tela-de-login/";
 
 jQuery('body').on('submit','form',function(){
     return false;
